@@ -1,9 +1,2 @@
 #!/usr/bin/env ruby
-
-regex = /(\w)\1{1,4}/
-
-ARGV.each do |word|
-  if match = word.match(regex)
-    puts word
-  end
-end
+puts ARGV[0].scan(/hbt{2,5}n/).join
