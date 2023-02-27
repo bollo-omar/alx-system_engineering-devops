@@ -1,1 +1,21 @@
-The one server web infrastructure includes Nginx as the web server, PHP as the application server, and MySQL as the database. The server communicates with the user's computer over the Internet using the TCP/IP protocol. The www DNS record maps to the server's IP address. Issues with this infrastructure include SPOF, downtime during maintenance, and inability to scale with traffic.
+1. User requesting the website: The user accesses the website by entering the domain name www.foobar.com in their browser.
+
+2. Server: A server is a computer system that provides services to other computers or devices on a network. In this case, the server is hosting the website for www.foobar.com.
+
+3. Domain Name: A domain name is a unique name that identifies a website on the internet. In this case, foobar.com is the domain name, and it is configured with a www record that points to the server's IP address 8.8.8.8.
+
+4. DNS Record: The www record in www.foobar.com is a DNS record that indicates the hostname of the web server that should be used to serve requests for the domain.
+
+5. Web Server (Nginx): It is responsible for serving static content and reverse proxying dynamic requests to the application server. It is the entry point for all requests coming to the website.
+
+6. Application Server: It is responsible for running the application code and processing dynamic requests that are received from the web server.
+
+6. Database (MySQL): It is used to store the application's data and is responsible for processing database queries that are made by the application server.
+
+7. Communication: The server uses the HTTP protocol to communicate with the computer of the user requesting the website. When a user enters www.foobar.com in their browser, the request is sent to the server using the HTTP protocol, and the server responds by sending back the website's content.
+
+## Issues with this infrastructure:
+
+- Single point of failure (SPOF) is present in the infrastructure as there is only one server. If the server fails, the entire infrastructure may be affected.
+- Downtime may occur when maintenance is needed, such as deploying new code or restarting the web server.
+- The infrastructure cannot scale if there is too much incoming traffic, as it is limited to the resources of a single server.i
