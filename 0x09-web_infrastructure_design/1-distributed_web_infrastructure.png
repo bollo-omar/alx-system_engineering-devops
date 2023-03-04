@@ -79,7 +79,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="D382:1992:A65C69:F46499:6402AD38" data-pjax-transient="true"/><meta name="html-safe-nonce" content="bb417373c1283cb8985e3f61b003a33d74c5086320a1042e9a996bd7805c81a5" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEMzgyOjE5OTI6QTY1QzY5OkY0NjQ5OTo2NDAyQUQzOCIsInZpc2l0b3JfaWQiOiIyNjI5MjU1OTkzOTAwNTc2MDU2IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="5e230e53c92a1c01af3cf722cedf3d5f0006b7d6c45db766aa6ed9ed40b7fb67" data-pjax-transient="true"/>
+  <meta name="request-id" content="D386:26B0:959BED:DC483E:6402ADF3" data-pjax-transient="true"/><meta name="html-safe-nonce" content="abe7d52336585d12d484ada0781d956562daa5aa9889d90ac0276279abc86395" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEMzg2OjI2QjA6OTU5QkVEOkRDNDgzRTo2NDAyQURGMyIsInZpc2l0b3JfaWQiOiIxMDUzMDExNTc5ODI5NDA2NTkiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="6530bfc0df740d043b616169745060030a56a4de0e36570352d6dfc6e7ab3be1" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:531419864" data-turbo-transient>
@@ -578,7 +578,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="iCYFZr4KfccXZfpAe0uC2IvfVu9Cp3z2vHywebxH715qKm1fDlj3S3PYfH3NIYOjIJzL8LKcQSZJjt2FwPcOdQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="s0t8LjzeQ8OpQYkLO1D4vBMjEa2S5lWyXKlIcyU0+ACX1SrPIXclJfjSccI3drHHelZMod7Di/0PhMzUCFvTVA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1357,7 +1357,7 @@
 </a>    </div>
 
     <div class="d-flex">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/alxkinyanjui/alx-system_engineering-devops/delete/master/0x09-web_infrastructure_design/Untitled%20Diagram.drawio.png" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="fyOE+Bf5nj+EN4gb9cQTwXRA2JBe9QWQUuj4zwWBzm9uxGp3+lI5QpZ7SZi4EBrNElGGlKrbr0uZLdFqFG5GdQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/alxkinyanjui/alx-system_engineering-devops/delete/master/0x09-web_infrastructure_design/Untitled%20Diagram.drawio.png" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="rSMIxm48ieBF1Eiuzs19zdIo0F3Zb68yVQ2baq4Ky/OI4hkNLgBt4jgso5f4mYz1C4kZj+SMFqzH8ItYA4FtVA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">

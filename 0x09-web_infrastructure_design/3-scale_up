@@ -1,0 +1,23 @@
+Infrastructure Requirements:
+
+1.Add 1 server
+2.Add 1 load balancer (HAproxy) configured as a cluster with the other one
+3.Split components (web server, application server, database) with their own server
+
+Explanation of additional elements:
+
+1.Additional server is added to split components
+2.Load balancer is used to distribute incoming traffic
+3.Load balancer is configured as a cluster for redundancy
+4.Separating web server, application server, and database improves performance and maintenance
+
+Objectives of the infrastructure:
+
+1.Improve scalability
+2.Improve fault tolerance
+3.Improve performance
+
+Benefits of the infrastructure:
+
+- Each component has the resources it needs to function optimally
+- The infrastructure can handle more traffic and prevent resource contention.

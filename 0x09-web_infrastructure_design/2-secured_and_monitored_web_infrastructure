@@ -1,0 +1,30 @@
+Three server web infrastructure for www.foobar.coim:
+
+1. Load Balancer Server
+2. Two Web Server Nodes
+3. Database Server
+
+Additional components:
+
+1. Three Firewalls
+2. SSL Certificate to serve traffic over HTTPS
+4. Three Monitoring Clients (data collectors)
+
+Explanation of components:
+
+- Purpose of each component is provided
+- Firewalls are used for security
+- SSL is used to encrypt traffic
+- Monitoring is used to ensure uptime and performance
+
+Issues with the infrastructure:
+
+- Terminating SSL at the load balancer level is a potential issue
+- Having only one MySQL server capable of accepting writes is a potential issue
+- Servers with identical components may cause problems
+
+Addressing the issues:
+
+- Adding redundancy to MySQL server
+- Setting up alerts to monitor web server QPS
+- Avoiding identical components to prevent problems
