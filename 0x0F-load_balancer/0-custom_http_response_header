@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Installs Nginx with the following configurations:
-#+    Listens on port 8081.
+#+    Listens on port 80.
 #+    Returns a page containing "Hello World" when queried
 #+     at the root with a curl GET request.
 #+    Configures /redirect_me as a "301 Moved Permanently".
@@ -18,8 +18,8 @@ touch /var/www/html/404.html
 echo "Ceci n'est pas une page" > /var/www/html/404.html
 
 printf %s "server {
-    listen 8081 default_server;
-    listen [::]:8081 default_server;
+    listen 80 default_server;
+    listen [::]:80 default_server;
     add_header X-Served-By $HOSTNAME;
     root   /var/www/html;
     index  index.html index.htm;
